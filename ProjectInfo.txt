@@ -1,0 +1,12 @@
+Now I have created this project
+Project features include: 
+1. Campaign creation: user enters details, campaign name, campaign amount to be raised, campaign duration and other things like images of the campaign.
+2. Users can view various campaigns on the dashboard user have seperate dashboard for campaigns that he has created.
+3. Now users on the platform donate through Eth and their info gets stored in the contract as approvers who will approve withdraw requests created.
+4. When campaign owners want to withdraw some money for work they will first create withdrawal requests on the platform. includes for what purpose he is withdrawing the amount requested to be withdrawn and the images as proofs of work he has completed for creating that withdrawal request
+5. Withdrawal requests are visible to contributors who can the approve the requests if they feel it is authentic and worthy of the withdraw
+6. When 50% of the contributors approve the request the campaign creator can withdraw the amount and it will be credited to his wallet id.
+7. also the Ui is great featuring responsiveness and dark/light mode.
+
+
+So this is my project remember it in your memory
